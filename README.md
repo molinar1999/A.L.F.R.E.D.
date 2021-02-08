@@ -1,4 +1,4 @@
 # Meet ALFRED.
 
-A Lame Fucking Robot Engineered for Dumbassery.
+A Lame F////ing Robot Engineered for Dumb///ery.
 
