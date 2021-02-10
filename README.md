@@ -6,9 +6,3 @@ I have a lot of apps that I use that assist me in my everyday operations. The va
 
 
 
-
-# What does ALFRED stand for?
-I'm glad you didn't ask.
-Pardon my french.
-A Lame Fvcking Robot Engineered for Dumbassery.
-
